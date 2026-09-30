@@ -1,6 +1,6 @@
 # 🚀 NexusDesk — Smart Workspace & Analytics Hub
 
-> Live Demo: [nexusdesk.vercel.app]() 
+> Live Demo: [https://nexus-desk-theta.vercel.app/]() 
 > Tech Stack: Next.js (App Router), TypeScript, Tailwind CSS, Zustand, Recharts, React Hook Form, Zod
 
 ---
